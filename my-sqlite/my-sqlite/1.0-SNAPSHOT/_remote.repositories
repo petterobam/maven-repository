@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Mar 25 21:42:51 CST 2018
+my-sqlite-1.0-SNAPSHOT.jar>=
+my-sqlite-1.0-SNAPSHOT.pom>=
+my-sqlite-1.0-SNAPSHOT-sources.jar>=

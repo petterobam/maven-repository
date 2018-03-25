@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Mar 01 22:46:04 CST 2018
+@default-http\://uk.maven.org/maven2/.lastUpdated=1519915564672
+@default-http\://maven.oschina.net/content/groups/public/.lastUpdated=1519915564659
+http\://maven.oschina.net/content/repositories/thirdparty/.error=Could not transfer artifact my-sqlite\:my-sqlite\:pom\:${my-sqlite.version} from/to osc_thirdparty (http\://maven.oschina.net/content/repositories/thirdparty/)\: Illegal character in path at index 78\: http\://maven.oschina.net/content/repositories/thirdparty/my-sqlite/my-sqlite/${my-sqlite.version}/my-sqlite-${my-sqlite.version}.pom
+http\://uk.maven.org/maven2/.error=Could not transfer artifact my-sqlite\:my-sqlite\:pom\:${my-sqlite.version} from/to UK (http\://uk.maven.org/maven2)\: Illegal character in path at index 48\: http\://uk.maven.org/maven2/my-sqlite/my-sqlite/${my-sqlite.version}/my-sqlite-${my-sqlite.version}.pom
+@default-http\://maven.oschina.net/content/repositories/thirdparty/.lastUpdated=1519915564666
+http\://maven.oschina.net/content/groups/public/.error=Could not transfer artifact my-sqlite\:my-sqlite\:pom\:${my-sqlite.version} from/to osc (http\://maven.oschina.net/content/groups/public/)\: Illegal character in path at index 68\: http\://maven.oschina.net/content/groups/public/my-sqlite/my-sqlite/${my-sqlite.version}/my-sqlite-${my-sqlite.version}.pom
